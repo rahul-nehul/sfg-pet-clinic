@@ -1,4 +1,4 @@
-package com.rnehul.sfgpetclinic.model;
+package com.rnehul.model.sfgpetclinic;
 
 public class PetType {
     private String name;
